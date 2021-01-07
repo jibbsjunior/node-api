@@ -8,7 +8,7 @@
     "server": "nodemon server.js"
   },
   "keywords": [],
-  "author": "Rilwan Adams",
+  "author": "Rilwan Ajibola",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^3.0.6",
