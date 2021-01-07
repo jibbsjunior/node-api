@@ -1,0 +1,95 @@
+{
+
+  "details":[
+      {
+        "id": 1,
+        "name": "Adebayo",
+        "otherName": "Rilwan Ajibola",
+        "Location": "lagos",
+        "job": "Software Developer",
+        "department": "IT",
+        "stack": "MERN"
+  },
+  {
+        "id": 2,
+        "name": "Uchi",
+        "otherName": "Uchibeke",
+        "Location": "imo",
+        "job": "Naijahack CEO",
+        "department": "IT",
+        "stack": "jack of all trade"
+  },
+  {
+        "id": 3,
+        "name": "Joseph",
+        "otherName": "Daramola Omotayo",
+        "Location": "Sagamu",
+        "job": "Front-End Developer",
+        "department": "IT",
+        "stack": "React"
+  },
+  {
+        "id": 4,
+        "name": "Judith",
+        "otherName": "Adigwe Chinelo",
+        "Location": "imo",
+        "job": "Front-End Developer",
+        "department": "IT",
+        "stack": "Wordpress"
+  },
+  {
+        "id": 5,
+        "name": "Hafeez",
+        "otherName": "Hacid Mind",
+        "Location": "lagos",
+        "job": "facilitator",
+        "department": "IT",
+        "stack": "MERN"
+  },
+  {
+        "id": 6,
+        "name": "Mohammed",
+        "otherName": "Fatoyinbo",
+        "Location": "lagos",
+        "job": "facilitator",
+        "department": "IT",
+        "stack": "MERN"
+  },
+  {
+        "id": 7,
+        "name": "Yussuf",
+        "otherName": "Rafiu",
+        "Location": "lagos",
+        "job": "TechStudio Academy CEO",
+        "department": "IT",
+        "stack": "MERN"
+  },
+  {
+        "id": 8,
+        "name": "Babajide",
+        "otherName": "Ayeni",
+        "Location": "lagos",
+        "job": "Front-End Developer",
+        "department": "IT",
+        "stack": "vanila js"
+  },
+  {
+        "id": 9,
+        "name": "Sanusi",
+        "otherName": "Korede Yussuf",
+        "Location": "lagos",
+        "job": "Software Developer",
+        "department": "IT",
+        "stack": "php"
+  },
+  {
+        "id": 10,
+        "name": "Olanrewaju",
+        "otherName": "Hammed",
+        "Location": "lagos",
+        "job": "Software Developer",
+        "department": "IT",
+        "stack": "MERN"
+  }
+    ]
+}
